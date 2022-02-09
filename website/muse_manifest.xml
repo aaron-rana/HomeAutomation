@@ -1,0 +1,51 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="automationhome.netau.net" resolutions="1x,2x" timestamp="1461189069661">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_b-master.css" crc="83262220" ref="our-story"/>
+    <file name="master_d-master.css" crc="3812006975" ref="contact-us"/>
+    <file name="master_a-master.css" crc="3882847200" ref="index"/>
+    <file name="master_c-master.css" crc="453770919" ref="remote:remote-beta"/>
+    <file name="remote.css" crc="3822194882" ref="remote"/>
+    <file name="remote-beta.css" crc="526881576" ref="remote-beta"/>
+    <file name="our-story.css" crc="150341089" ref="our-story"/>
+    <file name="index.css" crc="4112830331" ref="index"/>
+    <file name="contact-us.css" crc="146631316" ref="contact-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:remote:contact-us:our-story:remote-beta"/>
+    <file name="museutils.js" crc="183364071" ref="index:remote:contact-us:our-story:remote-beta"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:remote:contact-us:our-story:remote-beta"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:remote:contact-us:our-story:remote-beta"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:remote:contact-us:our-story:remote-beta"/>
+    <file name="pie.js" crc="3827607177" ref="index:remote"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="74895506" ref="index"/>
+    <file name="73457 blurd.jpg" crc="378130351" ref="index"/>
+    <file name="73457.jpg" crc="253611907" ref="index:contact-us"/>
+    <file name="u170-4.png" crc="3829746547" ref="index"/>
+    <file name="u170-4_2x.png" crc="4016145333" ref="index"/>
+    <file name="empty-search.svg" crc="449357601" ref="index"/>
+    <file name="empty-search_poster_.png" crc="4283365234" ref="index"/>
+    <file name="wireless (1).png" crc="3765670311" seo="true" ref="index"/>
+    <file name="u183-4.png" crc="3902418221" ref="index"/>
+    <file name="u183-4_2x.png" crc="472099791" ref="index"/>
+    <file name="sign.png" crc="57525899" seo="true" ref="index"/>
+    <file name="sign_2x.png" crc="103786744" seo="true" ref="index"/>
+    <file name="u197-4.png" crc="216087479" ref="index"/>
+    <file name="u197-4_2x.png" crc="104493795" ref="index"/>
+    <file name="pexels-photo.jpg" crc="127089886" ref="remote:remote-beta"/>
+    <file name="pexels-photo blured.jpg" crc="318030293" ref="remote"/>
+    <file name="pexels-photo bw-u297-fr.jpg" crc="36580639" ref="remote"/>
+    <file name="pexels-photo bw-u297-fr_2x.jpg" crc="241969929" ref="remote"/>
+    <file name="briefcase.png" crc="4541513" ref="remote"/>
+    <file name="briefcase_2x.png" crc="3925674077" ref="remote"/>
+    <file name="sport-white-rolls-skateboard.jpg" crc="3977812028" ref="our-story"/>
+    <file name="sport-white-rolls-skateboard blurd.jpg" crc="508316067" ref="our-story"/>
+  </folder>
+  <file name="index.html" crc="4038877184" seo="true" mt="1461182194873" redirect="true"/>
+  <file name="remote.html" crc="4030337832" seo="true" mt="1461186140609" redirect="true"/>
+  <file name="contact-us.html" crc="239861502" seo="true" mt="1461182194873" redirect="true"/>
+  <file name="our-story.html" crc="28962940" seo="true" mt="1461182194873" redirect="true"/>
+  <file name="remote-beta.html" crc="414193131" seo="true" mt="1461187604787" redirect="true"/>
+</manifest>

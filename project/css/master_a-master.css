@@ -1,0 +1,33 @@
+#u88
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background: transparent url("../images/73457.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u88_align_to_page
+{
+	position: relative;
+}
+
+#u99-4
+{
+	background-color: transparent;
+	letter-spacing: 10px;
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	font-family: amatic-sc, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u99-4:hover p
+{
+	color: #00003F;
+	visibility: inherit;
+	letter-spacing: 5px;
+	text-align: center;
+}
+

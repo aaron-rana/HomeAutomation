@@ -1,0 +1,78 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="automationhome.netau.net" resolutions="1x,2x" timestamp="1462569701012">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-master.css" crc="6088638" ref="our-story"/>
+    <file name="master_d-master.css" crc="3930559183" ref="contact-us"/>
+    <file name="master_a-master.css" crc="441227037" ref="index"/>
+    <file name="master_c-master.css" crc="3873328337" ref="remote"/>
+    <file name="index.css" crc="504066218" ref="index"/>
+    <file name="remote.css" crc="4232010230" ref="remote"/>
+    <file name="contact-us.css" crc="236589286" ref="contact-us"/>
+    <file name="our-story.css" crc="253258080" ref="our-story"/>
+  </folder>
+  <folder name="assets">
+    <file name="html5shiv.min.js" crc="3891465133" seo="true" mt="1461196331000"/>
+    <file name="style.css" crc="104004327" seo="true" mt="1461791066000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:our-story:remote:contact-us"/>
+    <file name="museutils.js" crc="183364071" ref="index:our-story:remote:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:our-story:remote:contact-us"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:our-story:remote:contact-us"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:our-story:remote:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="index:our-story:remote"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="74895506" ref="index"/>
+    <file name="73457 blurd.jpg" crc="378130351" ref="index"/>
+    <file name="73457.jpg" crc="253611907" ref="index"/>
+    <file name="u170-4.png" crc="3829746547" ref="index"/>
+    <file name="u170-4_2x.png" crc="4016145333" ref="index"/>
+    <file name="empty-search.svg" crc="449357601" ref="index"/>
+    <file name="empty-search_poster_.png" crc="4283365234" ref="index"/>
+    <file name="wireless (1).png" crc="3765670311" seo="true" ref="index"/>
+    <file name="u183-4.png" crc="3902418221" ref="index"/>
+    <file name="u183-4_2x.png" crc="472099791" ref="index"/>
+    <file name="sign.png" crc="57525899" seo="true" ref="index"/>
+    <file name="sign_2x.png" crc="103786744" seo="true" ref="index"/>
+    <file name="u197-4.png" crc="216087479" ref="index"/>
+    <file name="u197-4_2x.png" crc="104493795" ref="index"/>
+    <file name="interior_chair_fireplace_bathroom_88971_3840x2160.jpg" crc="172271807" ref="our-story"/>
+    <file name="interior_chair_fireplace_bathroom_88971_3840x21602.jpg" crc="3818832395" ref="our-story"/>
+    <file name="coollogo_com-84664765.png" crc="61623395" seo="true" ref="our-story"/>
+    <file name="coollogo_com-84664765_2x.png" crc="4020259130" seo="true" ref="our-story"/>
+    <file name="blank.gif" crc="4208392903" ref="our-story"/>
+    <file name="u711.png" crc="393927427" ref="our-story"/>
+    <file name="u711-r.png" crc="51279356" ref="our-story"/>
+    <file name="u711_2x.png" crc="3927177573" ref="our-story"/>
+    <file name="u711-r_2x.png" crc="3907205250" ref="our-story"/>
+    <file name="coollogo_com-136041026.png" crc="4233656660" seo="true" ref="our-story"/>
+    <file name="coollogo_com-136041026_2x.png" crc="494519741" seo="true" ref="our-story"/>
+    <file name="orange_slices_1920_x_1200_widescreen-1680x1050.jpg" crc="417917850" ref="our-story"/>
+    <file name="e2809cboundlesscountsofjoyand0acountlessboundtotheende2809d0a28power29-fbcover.jpg" crc="42729586" seo="true" ref="our-story"/>
+    <file name="coollogo_com-129163673.png" crc="3899350447" seo="true" ref="our-story"/>
+    <file name="coollogo_com-129163673_2x.png" crc="258398858" seo="true" ref="our-story"/>
+    <file name="1505215_517721761664321_204393986499977258_n.jpg" crc="3884706654" seo="true" ref="our-story"/>
+    <file name="1505215_517721761664321_204393986499977258_n_2x.jpg" crc="30187400" seo="true" ref="our-story"/>
+    <file name="10731194_835001563254487_6919930106409322959_n.jpg" crc="171001668" seo="true" ref="our-story"/>
+    <file name="10731194_835001563254487_6919930106409322959_n_2x.jpg" crc="434886087" seo="true" ref="our-story"/>
+    <file name="10557412_1002950286399561_95372085871453379_n.jpg" crc="3990073763" seo="true" ref="our-story"/>
+    <file name="10557412_1002950286399561_95372085871453379_n_2x.jpg" crc="4278698797" seo="true" ref="our-story"/>
+    <file name="pexels-photo.jpg" crc="127089886" ref="remote"/>
+    <file name="pexels-photo blured.jpg" crc="318030293" ref="remote"/>
+    <file name="light-bulb-lamp.png" crc="4164749570" seo="true" ref="remote"/>
+    <file name="light-bulb-lamp_2x.png" crc="179902127" seo="true" ref="remote"/>
+    <file name="light-bulb-lamp (2).png" crc="343191424" seo="true" ref="remote"/>
+    <file name="light-bulb-lamp (2)_2x.png" crc="338505075" seo="true" ref="remote"/>
+    <file name="light-bulb-lamp (1).png" crc="236437559" seo="true" ref="remote"/>
+    <file name="light-bulb-lamp (1)_2x.png" crc="4062052335" seo="true" ref="remote"/>
+    <file name="light-bulb.png" crc="3860796648" seo="true" ref="remote"/>
+    <file name="light-bulb_2x.png" crc="3860796648" seo="true" ref="remote"/>
+    <file name="121655 down.jpg" crc="3775620344" ref="contact-us"/>
+    <file name="121655.jpg" crc="4081400477" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="3981907282" seo="true" mt="1462569457930" redirect="true"/>
+  <file name="our-story.html" crc="181248095" seo="true" mt="1462565947191" redirect="true"/>
+  <file name="remote.html" crc="372081587" seo="true" mt="1462569382782" redirect="true"/>
+  <file name="contact-us.html" crc="78953771" seo="true" mt="1462569493937" redirect="true"/>
+</manifest>

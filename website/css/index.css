@@ -1,0 +1,372 @@
+#pbuttonu163:hover #buttonu163
+{
+	width: 230px;
+	height: 159px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #13005B;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#pbuttonu159:hover #buttonu159
+{
+	width: 251px;
+	height: 153px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #13005B;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+#pbuttonu166:hover #buttonu166
+{
+	width: 256px;
+	height: 156px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #13005B;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 0px;
+	left: 0px;
+	margin-left: 0px;
+	min-height: 0px;
+}
+
+.ie #pbuttonu166:hover #buttonu166,.ie #pbuttonu163:hover #buttonu163,.ie #pbuttonu159:hover #buttonu159
+{
+	opacity: 1;
+	-ms-filter: "";
+	filter: none;
+	background-color: transparent;
+}
+
+.version.index /* version checker */
+{
+	color: #0000F5;
+	background-color: #24CF7B;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/73457%20blurd.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1268px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 214px;
+	padding-bottom: 248px;
+	width: 0.01px;
+}
+
+#u289
+{
+	z-index: 33;
+	width: 210px;
+	min-height: 98px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 443px;
+	position: relative;
+}
+
+#u88
+{
+	z-index: 2;
+	min-height: 91px;
+	padding-bottom: 43px;
+}
+
+#u88_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u99-4
+{
+	z-index: 3;
+	width: 617px;
+	min-height: 48px;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 272px;
+}
+
+#u99-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 48px;
+	width: 617px;
+	margin: 43px -10000px 0px 0px;
+}
+
+#u88-bw
+{
+	z-index: 2;
+	min-height: 91px;
+	margin-top: 7px;
+}
+
+#ppbuttonu159
+{
+	width: 0.01px;
+	margin-left: -23px;
+	margin-top: 405px;
+}
+
+#pbuttonu159
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#buttonu159
+{
+	z-index: 8;
+	width: 252px;
+	height: 154px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u170-4
+{
+	z-index: 9;
+	display: block;
+	vertical-align: top;
+}
+
+#pbuttonu159 #u170-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 60px;
+}
+
+#pbuttonu159:hover #u170-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 58px;
+	left: 59px;
+}
+
+#u172
+{
+	z-index: 13;
+}
+
+#pbuttonu159 #u172
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 36px;
+}
+
+#pbuttonu159:hover #u172
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: -1px;
+}
+
+#pbuttonu163
+{
+	width: 0.01px;
+	margin: 2px -10000px -1px 388px;
+}
+
+#buttonu163
+{
+	z-index: 16;
+	width: 231px;
+	height: 160px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u177
+{
+	z-index: 17;
+	width: 81px;
+	background-color: transparent;
+}
+
+#pbuttonu163:hover #u177
+{
+	position: relative;
+	width: 81px;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 25px;
+	min-height: 0px;
+}
+
+#pbuttonu163.ButtonSelected #u177
+{
+	width: 81px;
+	min-height: 0px;
+}
+
+#pbuttonu163 #u177
+{
+	position: relative;
+	width: 81px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 26px;
+}
+
+#u183-4
+{
+	z-index: 19;
+	display: block;
+	vertical-align: top;
+}
+
+#pbuttonu163 #u183-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 81px;
+}
+
+#pbuttonu163:hover #u183-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 80px;
+}
+
+#pbuttonu166
+{
+	width: 0.01px;
+	margin: 5px -10000px -1px 754px;
+}
+
+#buttonu166
+{
+	z-index: 25;
+	width: 257px;
+	height: 157px;
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u184
+{
+	z-index: 26;
+	width: 71px;
+	background-color: transparent;
+}
+
+#pbuttonu166:hover #u184
+{
+	position: relative;
+	width: 71px;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 18px;
+	min-height: 0px;
+}
+
+#pbuttonu166.ButtonSelected #u184
+{
+	width: 71px;
+	min-height: 0px;
+}
+
+#pbuttonu166 #u184
+{
+	position: relative;
+	width: 71px;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 19px;
+}
+
+#u197-4
+{
+	z-index: 28;
+	display: block;
+	vertical-align: top;
+}
+
+#pbuttonu166 #u197-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 74px;
+}
+
+#pbuttonu166:hover #u197-4
+{
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 60px;
+	left: 73px;
+}
+
+.js #buttonu159.ose_pre_init,.js #buttonu163.ose_pre_init,.js #buttonu166.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 60px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

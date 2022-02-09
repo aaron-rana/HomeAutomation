@@ -1,0 +1,33 @@
+#u255
+{
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background: transparent url("../images/pexels-photo%20blured.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u255_align_to_page
+{
+	position: relative;
+}
+
+#u257-4
+{
+	background-color: transparent;
+	line-height: 43px;
+	color: #736F6E;
+	text-align: center;
+	font-size: 36px;
+	font-family: anisette-std-petite-2, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u257-4:hover p
+{
+	color: #00003F;
+	visibility: inherit;
+	letter-spacing: 5px;
+	text-align: center;
+}
+
